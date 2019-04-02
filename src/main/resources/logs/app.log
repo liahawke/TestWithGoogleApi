@@ -1,0 +1,15 @@
+2019-34-03 01:34:39.825 [main] INFO   - Opened site
+2019-34-03 01:34:41.630 [main] INFO   - Clicked 'Register new user'
+2019-34-03 01:34:41.811 [main] INFO   - Registered new user
+2019-34-03 01:34:42.385 [main] ERROR  - Message are not the same expected:<[You need to sign in or sign up before continuing.]> but was:<[]>
+2019-35-03 01:35:41.625 [main] INFO   - Opened site
+2019-35-03 01:35:42.884 [main] INFO   - Clicked 'Register new user'
+2019-35-03 01:35:47.260 [main] ERROR  - 262144
+2019-38-03 01:38:59.564 [main] INFO   - Opened site
+2019-39-03 01:39:00.827 [main] INFO   - Clicked 'Register new user'
+2019-41-03 01:41:36.445 [main] INFO   - Opened site
+2019-41-03 01:41:37.707 [main] INFO   - Clicked 'Register new user'
+2019-42-03 01:42:31.040 [main] INFO   - Opened site
+2019-42-03 01:42:32.415 [main] INFO   - Clicked 'Register new user'
+2019-44-03 01:44:30.411 [main] INFO   - Opened site
+2019-44-03 01:44:31.717 [main] INFO   - Clicked 'Register new user'
